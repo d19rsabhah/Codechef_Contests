@@ -2,7 +2,7 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-class Codechef
+class Erase_And_Maximize
 {
     public static void main(String[] args) throws java.lang.Exception
     {
