@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Codechef
+class Equal_Elements_2
 {
     public static void main(String[] args) throws java.lang.Exception
     {
